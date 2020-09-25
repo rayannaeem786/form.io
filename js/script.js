@@ -6,7 +6,7 @@ function myfun(){
     var answer = document.getElementById("password").value;
 
     if (fname ==="Rayan" , lname==="Naeem" , email==="ch@12345" , answer==="web123") {
-      window.location.replace("file:///C:/Users/Rayan%20Naeem/Desktop/Burger%20Bun/Design world/index.html");
+      document.location.replace("file:///C:/Users/Rayan%20Naeem/Desktop/Burger%20Bun/Design world/index.html");
        
 
    
